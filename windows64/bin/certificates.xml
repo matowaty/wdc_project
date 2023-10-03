@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Certificates>
+	
+	
+	<Certificate>
+		
+		
+		<Login>user1</Login>
+		
+		
+		<Identity>first user</Identity>
+		
+		
+		<PublicKey>-----BEGIN PUBLIC KEY-----
+MIIDRDCCAjYGByqGSM44BAEwggIpAoIBAQDNW6r3lK7KjU6R/22wKGLNW0ZTPegl
+jDDBbC80EqyDOk1tNuAtl7d66ZTwNw+MTZOGCbZBzGh0o5oF2JrxsnRmNqUE9Fkt
+thx6EaRZMlAgSUz2ENWY4vOpK/jCs8GndqEXXfOa7jOhHzZ36idR+MgOr09Rq/IU
+TFtq7boY1OXgkZX/Vv5yIwGFfNFdeqgAKxFcXmQryLyRsLjwGd9BA/2GS4Vml1sJ
+HRQBw5WK7DWORi370VEuCK2FCxoZh9S+Ghxc6gD94HbBGiuLIzA8c8ubipe5dYtV
+aJbnyUhODi8LgN2jxakyqBhoL/Urk9MZzaogcgX31DBdBaYdpqi7eRN/Ah0A4EjY
+c9eL43ALnALlwgBpO/cgeswN7ALTsJrQfQKCAQEAuwR9aUh9FU2fs6I/KrKF0LCw
+rwMKZebOr0oq9zKlOYZUmskd0M+dFsq/2sKqus0OVZqk/m/7YtZOXHuMMEiiUeS/
+EbtgT5TPXlwMzZ3CqN69KadbyhI1LSfJ/1YAx5fWbAb1m8H0gwSyBtbXcab5xJCY
+liyFRG9SHVaHFucLgMFYV/ehLtuxr8xBatahJoJANHdDKuMCL3nXia2GHOlBCUba
+duN1BjtSsHitfw69X3ruj2WZvQN5nvd6PZU90utvgDk1JF8VVdFumXv9h7wPiRSc
+mRh608XTUlBXFu+jk4T35vESdOB8rwJzzkSRTsZCrgLVcRPlrGMWpXIY5Hyk0AOC
+AQYAAoIBAQCXhm2SX34Hvmm1iJuEN2B0dAiDSm4W3+Q3fhZ+hqxfp2GPpRrb1U4e
+0AuD0YptyiUsFm9bd5qEt3dwc1a+SsF44u81W9ZUQ/DVIQjoOeMDMIplQEGCUXH0
+2hTEfzvk4AFIYe7FCR5PXZCRcW6jhSsqLamePEWl2bIV5Pw+tJapGIaiW12wDroq
+hl4CgvtY3SCagLFp5a7677BZANzHAfcuJ9IzIE1NdvPdGTjgq5Q6PNKZYHVfvI7x
+xFGgu/1gGSHPs9bzmp72t3sljNYSeDcwHQ150C+0onSpNR6xWvq4xvs3tq6tIDyG
+N4PqV3GT/d4mK2NxPHOscq3PIXs+xh2c
+-----END PUBLIC KEY-----</PublicKey>
+		
+	
+	</Certificate>
+	
+
+	<Certificate>
+		<Login>user2</Login>
+		<Identity>second user</Identity>
+		<PublicKey>-----BEGIN PUBLIC KEY-----
+MIIDQjCCAjUGByqGSM44BAEwggIoAoIBAQCUok/m0whC8z4af+pR56HR+P8xAyI0
+1JytmSmsnGgMcm3Y/zOivzbMRCGbbqQ04aGkKqDGL1+ILlTUENC7oTJR2xIzd9Ib
+burpeucA2Sa6Ftnwj7jhWZRzZf+W1jqY+wmP947RcZcucUWz3cTuJlbQtv7OoZQK
+0zdX05EniI9wadIxT9hhYWd0jDBi85LSfgQXAyUzwVr/G9rex0/bM3HZ5Qmtnp/u
+tuq7bYoeZPnNIO/JXQQDQsaNCBK+32BZgB0nGd0ST67FubF6xWjZuYu1lioT89KM
+NJGsDumBfM7f5loLm1DboNcehMdQsYMsJcblvsoXtOUL7xKL5Vv+giJ5Ah0AvvWn
+nCXhSUsxIg+J9Y6DrqzM1ocYY+kfu/ZxcwKCAQAkZ6mv80cwjIsRr1EAtqgBmySR
+GRLiLcVpBw1UqtbIxpKITASbEyN4TVcd0P0jhtmfNUHxTD2z2GNvkUuN0kRVsIxk
+tfraBmhGul6G9acNpGeYJh7MNsB2nzOWIlbVlb557HbE5ncwtqQCPbdcGUD8mqnM
+IboKH35EHQhi/diccNxGBXWuSelx1MyuO2VdupZnqCQew6vZB3+epg+2gYxPBKmj
+klc1PPF0mOTAnh8pdZxMYA1w1mNP2ajpofsvUPoxWjDWgl7Req+HTXjf5Hcq/l8j
+cSZ02R7lj7V0SbmIbq9DJFM54oZzFr4O8hn8eQK5WokyT5VVVaw/bzyKgPgbA4IB
+BQACggEAQUmDGYqmMZgg58s1BQcVdrZ7TCtfop8O7ZL0w1ihW8nWZixHKeKTjBn/
+q+r0yZXcizt9av6HDo8VvaWuHPQfhUK9s6KM5de3dFxvMmw1NymFpQ7qP/xsakua
+I6HDu+Y2QLTE8EPUXI1KsrNNfgoXeRhF0A0ji6Kssk9B/7ImYV29T2dauMTzU9JQ
+iuemUO0gN2ALeBO8CxJ3r4MQnZ9EkvUvfr7eHvaxMBy6FUG1CFx5tv8PCPCUUBac
+xdmCXxfL+yJvXCGXZngoesMV2VHktsYi0GBdzATMWmOFRdeB/zHlui0y6Vv6UZE8
+pIkt4VaM2z3p2ejKVXwSiJ1cTUtsdg==
+-----END PUBLIC KEY-----</PublicKey>
+	</Certificate>
+</Certificates>
